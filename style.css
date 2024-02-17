@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+header ul {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.bus-icon{
+   weidth: 120px;
+   
+   
+}
